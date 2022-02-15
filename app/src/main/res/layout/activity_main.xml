@@ -36,6 +36,7 @@
             android:layout_height="wrap_content"
             android:background="@color/white"
             android:hint="카카오계정 (이메일)"
+            android:inputType="textEmailAddress"
             android:padding="9dp"
             android:textColorHint="#959595"
             android:textSize="13sp" />
@@ -50,6 +51,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:background="@color/white"
+            android:inputType="textPassword"
             android:hint="비밀번호"
             android:padding="9dp"
             android:textColorHint="#959595"
